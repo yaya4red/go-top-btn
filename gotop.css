@@ -1,0 +1,34 @@
+.content {
+	background-color: #d1ffe8;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:15px;
+	font-size: 16px;
+	letter-spacing: 2px;
+	color: #666666;
+}
+
+h2 {
+	padding: 10px;
+	background: #ff284f;
+	color: #fff;
+}
+
+h3 {
+	font-size: 20px;
+	color: #ff284f;
+}
+
+.top-btn {
+	width: 75px;
+	height: 45px;
+	color: #fff;
+	background-color: #ff708a;
+	text-align: center;
+	padding-top: 30px;
+	position: fixed;
+	bottom: 20px;
+	right: 50px;
+	cursor: pointer;
+}
